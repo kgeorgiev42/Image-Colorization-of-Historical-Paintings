@@ -1,4 +1,4 @@
-# Image-Colorization-of-Historical-Paintings
+# Image-Colorization-of-Historical-Paintings - Math Concepts for Developers Course 2019
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y0uwtnjP9eA-YGim1RlEXdkPIGaZAUcF)
 
