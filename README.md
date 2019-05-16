@@ -1,5 +1,7 @@
 # Image-Colorization-of-Historical-Paintings
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y0uwtnjP9eA-YGim1RlEXdkPIGaZAUcF)
+
 ### Introduction
 
 &nbsp;&nbsp;&nbsp;Colorization and remastering of old images nowadays is usually done manually by using popular photo editing software like <b>Photoshop</b>. This process is generally a very demanding job that requires extensive research, in order to properly organize the layers of color as well as the proper shading of these images. Sometimes remastering an image can take months. However, with the help of various <b> Deep Learning </b>models it is possible to gradually speed up and even automate this task, whilst producing results that would be similar to those of a professional editor.   
@@ -26,3 +28,4 @@
 *   <b>Tensorflow (Keras API)</b> - creating, optimizing, saving and preprocessing deep learning models
 
 &nbsp;&nbsp;&nbsp; This project is also made entirely on <b>Google Colab</b> for performance sake.
+
